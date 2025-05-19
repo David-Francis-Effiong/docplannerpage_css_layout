@@ -1,6 +1,6 @@
 # Project Name: Doc Planner Group Webpage Clone CSS External Styling
 
-In this project, I created a basic webpage clone for the Doc Planner group as seen "https://docplanner-gomycode.onrender.com/index.html></a> I used HTML to structure the content and include some 
+In this project, I created a basic webpage clone for the Doc Planner group as seen https://docplanner-gomycode.onrender.com/index.html</a>. I used HTML to structure the content and include some 
 semantic tags and elements like headings, main, section, paragraphs, div, and footer.
 
 ## specifications
